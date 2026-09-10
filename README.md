@@ -7,5 +7,6 @@ Personal Codex skills and reusable agent workflows.
 - [`hyperframes`](skills/hyperframes/) — Cinematic HTML presentation and website-to-video guidance. Source: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/creative/hyperframes).
 - [`libtv-cli`](skills/libtv-cli/) — Official LibTV CLI command and workflow documentation. Source: [LibTV CLI Skill 1.1.3](https://liblibai-web-static.liblib.cloud/cli/1.1.3/libtv-cli-skill.zip).
 - [`bggg-creator-image2psd`](skills/bggg-creator-image2psd/) — Convert images into editable layered PSD files. Source: [binggandata/bggg-skills](https://github.com/binggandata/bggg-skills/tree/main/bggg-creator-image2psd).
+- [`beautiful-html-templates`](skills/beautiful-html-templates/) — Build design-led HTML slide decks from a curated 34-template library. Adapted from [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates).
 
 License and provenance details are recorded in each imported skill directory when provided by the upstream source.

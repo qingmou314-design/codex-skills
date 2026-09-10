@@ -1,0 +1,4 @@
+interface:
+  display_name: "Beautiful HTML Templates"
+  short_description: "Build design-led HTML slide decks from 34 templates"
+  default_prompt: "Create an HTML slide deck using the best matching template."
